@@ -1,0 +1,194 @@
+*{
+    margin:0px;
+}
+body{
+    
+    text-align: center;
+    background-color: greenyellow;
+
+}
+.navbar{
+    height:100px;
+    width:100%;
+    background-color:green
+}
+.intro{
+    height:700px;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center
+}
+.intro img{
+    margin-top: 20px;
+    height:300px;
+    width:500px
+    
+}
+.cloud1{
+    position:absolute;
+    height:100px;
+    width:200px;
+    margin-left:200px;
+    margin-top:20px;
+
+}
+.cloud2{
+    position:absolute;
+    height:100px;
+    width:200px;
+    margin-left:200px;
+    margin-top:20px;
+
+}
+.cloud3{
+    
+    position:absolute;
+    height:100px;
+    width:200px;
+    margin-left:200px;
+    margin-top:20px;
+
+}
+.cloud4{
+    
+    position:absolute;
+    height:100px;
+    width:200px;
+    margin-left:200px;
+    margin-top:20px;
+
+}
+
+
+hr{
+    border-style:none;
+    border-top:dotted;
+    margin:20px;
+    color:blue;
+    width:60%;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.aboutme{
+    
+
+    width:70%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.aboutme .rightimg{
+    margin-right:40px;
+    height:200px;
+    width:200px;
+}
+.about p{
+    font-size: 20px;
+}
+.leftimg{
+    margin-left: 40px;
+    height:300px;
+    width:500px
+
+}
+ .bottom_navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    height:100px;
+    width:100%;
+    background-color:green
+}
+.links{
+    margin:20px;
+    height: 50px;
+    width: 50px;
+}
+@media(max-width:450px){
+    h1{
+        color:red;
+    }
+}
+.cloud1{
+    position:absolute;
+    height:80px;
+    width: 130px;
+    margin-left:230px;
+    margin-top:40px;
+
+}
+.cloud2{
+    position:absolute;
+    height:80px;
+    
+    margin-left:10px;
+    margin-top:20px;
+
+}
+.cloud3{
+    visibility: hidden;
+    
+    position:absolute;
+    height:100px;
+    width:200px;
+    margin-left:200px;
+    margin-top:20px;
+
+}
+
+.cloud4{
+    visibility:hidden;
+    
+    position:absolute;
+    height:100px;
+    width:200px;
+    margin-left:200px;
+    margin-top:20px;
+
+}
+body{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+.intro img{
+    margin-top: 20px;
+    height:300px;
+    width: 400px;
+    
+}
+.aboutme{
+    
+
+    width:95%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.aboutme .rightimg{
+    margin-right:40px;
+    height:200px;
+    width:200px;
+}
+.about p{
+    font-size: 20px;
+}
+leftimg{
+    margin-left: 40px;
+    height:130px;
+    width:130x
+
+}
+.links{
+    margin:20px;
+    height: 30px;
+    width: 30px;
+}
